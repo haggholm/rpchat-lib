@@ -1,0 +1,15 @@
+{
+  "name": "@rpchat/lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petter Häggholm <petter@petterhaggholm.net>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lazy": "^1.0.11",
+    "seamless-immutable": "haggholm/seamless-immutable"
+  }
+}
